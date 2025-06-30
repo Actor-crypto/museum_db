@@ -20,5 +20,5 @@ Database ini dibuat untuk keperluan tugas UAS Basis Data Lanjut. Database museum
    atau gunakan fitur import melalui phpMyAdmin.
 
 ## Nama & NIM
-- Nama: [Isikan Nama Kamu]
-- NIM: [Isikan NIM Kamu]
+- Nama: M. ARSY ALFARIZQI
+- NIM: 23.02.0.0020
